@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Hello! 👋 My name is Harshit Pal. I am from Lucknow, Uttar Pradesh, india.<br><br>I am a B.tech (CSE) student in SRMCEM college🏫 and a tech enthusiast 🧑‍💻.<br><br>Currently a tech Volunteer at Google Development Student Council(GDSC) - SRMCEM, and an Assitant Coordinator at Computer Scoiety of India(CSI)- SRMCEM<br><br>🔭 I’m currently working on Web and App Development<br>🌱 I’m currently learning MERN Stack and Python<br>📫 How to reach me: Harshit Pal (Linkedin)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: After Sunday, even the calendar says WTF.</p>
+<p align="left">Hello! 👋 My name is Harshit Pal. <br><br>I am a student, persuing my B.tech (CSE) from SRMCEM college🏫 and a tech enthusiast 🧑‍💻.<br><br>🔭 I’m currently working on Web and App Development and learning Python<br>📫 How to reach me: Harshit Pal (Linkedin)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: After Sunday, even the calendar says WTF.</p>
 
 ###
 
