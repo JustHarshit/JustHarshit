@@ -9,7 +9,7 @@
 <div align="center">
   <a href="mailto:hpal52787@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"></a>
-  <a href="https://www.linkedin.com/in/harshit-pal-aaa872257">
+  <a href="www.linkedin.com/in/harshit-pal2902">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"></a>
   <a href="https://medium.com/@Harshit_">
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=plastic" height="30" alt="medium logo"></a>
